@@ -7,6 +7,7 @@ Pruebas de rendimiento con Jmeter
 3-Instalar Jmeter https://dlcdn.apache.org//jmeter/binaries/apache-jmeter-5.6.3.tgz
 4-Extraer archivo descargado y ejecutar en la carpeta bin el archivo 'ApacheJMeter.jar'
 5-Cargar el archivo 'Petstore Rendimiento.jmx'
+6-Ejecutar prueba
 
 #Resultados Clave
 Número de Muestras: 20
